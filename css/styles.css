@@ -57,3 +57,14 @@ textarea::placeholder {
   gap: 20px;
 }
 
+button {
+  background: #00aa75;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 30px;
+  border-radius: 35px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}
+
